@@ -1,6 +1,6 @@
 - 👀 I’m interested in Funky Programmmmmmmming
 
-- <h1 align="center">Hi 👋, I'm Sehrish Javed</h1>
+- <h1 align="center">Hi , I'm Sehrish Javed</h1>
 <h3 align="center">A MERN/MEVN stack developer writing code that can scale and generate revenue</h3>
 
 - I’m currently working in **stealth mode 😉**
@@ -11,7 +11,7 @@
 
 - How to reach me **sehrishjaved706@gmail.com**
 
-- Fun fact **I convert energy drinks into code ;)**
+- Fun fact **Code like a boss, debug like a pro ;)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
